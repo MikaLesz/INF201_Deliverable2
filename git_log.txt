@@ -1,0 +1,6 @@
+* a8b61d1 - Dominika Leszczynska, 3 minutes ago : commit 6
+* 395f94f - Dominika Leszczynska, 28 minutes ago : commit 5
+* 7f8e97f - Dominika Leszczynska, 54 minutes ago : commit 4
+* 8a5fa78 - Dominika Leszczynska, 60 minutes ago : commit 3
+* b79fee8 - Dominika Leszczynska, 2 days ago : andre commit
+* 108673c - Dominika Leszczynska, 2 days ago : min først commit
